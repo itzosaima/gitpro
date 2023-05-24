@@ -8,6 +8,11 @@ public class stream1 {
 System.setProperty("webdriver.chrome.driver", "C:\\Users\\alinewaz\\Documents\\chromedriver.exe");
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://www.google.com");
+		System.out.println("bbbbbb");
+		System.out.println("bbbbbb");
+		System.out.println("babhi");
+
+
 	}
 
 }
